@@ -1,5 +1,5 @@
 print("Bienvenido!")
-print("Hola mundo")
+print("Hola mundo!")
 
 print("Taller git")
 x = 1 + 2
