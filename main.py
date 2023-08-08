@@ -6,6 +6,9 @@ print("-------------")
 print("Taller git:")
 x = 1 + 2
 print(x)
+print(x * 4)
+print(x ** 2)
+print(x / 5)
 
 for i in range(10):
     print(i)
