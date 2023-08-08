@@ -1,11 +1,14 @@
-print("Bienvenido!")
-print("Hola mundo!")
+print("¡Bienvenido!")
+print("-------------")
+print("¡Hola mundo!")
 
-print("Taller git")
+print("-------------")
+print("Taller git:")
 x = 1 + 2
 print(x)
 
 for i in range(10):
     print(i)
 
-print('Mensaje final!')
+print("-------------")
+print('¡Mensaje final!')
